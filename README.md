@@ -6,7 +6,7 @@ The static files are served from port 8080 and livereload runs on port 8081. Wor
 
 ## Usage
 
-[Click here to clone this repository in Cloud9](https://c9.io/open/git/?url=git@github.com:cloud9ide/livereload-example.git)
+[Click here to clone this repository in Cloud9](https://c9.io/open/git/?url=git@github.com:cloud9ideopen/livereload-example.git)
 
 
 Then in the terminal run:
